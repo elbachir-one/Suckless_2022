@@ -1,0 +1,1 @@
+## New Suckless Config
